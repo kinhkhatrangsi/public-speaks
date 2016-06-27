@@ -10,6 +10,8 @@ technical, experience and soft skills.
 | “One Man” Development Process Model           | 29 November 2015 | Barcamp Saigon 2015 - RMIT University    | ~50 people           | One Man Development Process Model.pdf |
 | ReactiveX - Thinking differently about events | 01 March 2016    | Silicon Straits Saigon                   | ~20 people           | ReactiveX.pdf                         |
 | Progressive Web Apps                          | 23 April 2016    | Free Code Camp - Citihub Coworking Space | ~10 people           | Progressive Web Apps.pdf              |
+| Introduction to Progressive Web Apps                          | 11 June 2016     | Google I/O Extended 2016 Bach Khoa University, Ho Chi Minh City | ~400 people           | Progressive Web Apps.pdf              |
+| Firebase for Web Apps                          | 26 June 2016     | Google I/O Extended 2016 Hoa Sen University, Ho Chi Minh City | ~500 people           | -              |
 
 
 # Non-tech
