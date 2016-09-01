@@ -12,7 +12,7 @@ technical, experience and soft skills.
 | Progressive Web Apps                          | 23 April 2016    | Free Code Camp - Citihub Coworking Space | ~10 people           | Progressive Web Apps.pdf              |
 | Introduction to Progressive Web Apps                          | 11 June 2016     | Google I/O Extended 2016 Bach Khoa University, Ho Chi Minh City | ~400 people           | Progressive Web Apps.pdf              |
 | Firebase for Web Apps                          | 26 June 2016     | Google I/O Extended 2016 Hoa Sen University, Ho Chi Minh City | ~500 people           | Firebase for Web Apps.pdf              |
-
+| Web Real Time Communication | 20 August 2016 | Geeky Weekend, 3rd floor, 9 Nguyen Trai, District 1 | ~30 people | WebRTC.pdf
 
 # Non-tech
 
